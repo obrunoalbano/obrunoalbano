@@ -1,4 +1,4 @@
-## João Silva - Front-End Developer
+## Bruno Albano - Front-End Developer
 
 ### Sobre Mim
 
